@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class GeminiService {
-  static const apiKey =
-      'PASTE_YOUR_OPENROUTER_KEY_HERE;
+  static const apiKey ='paste-your-api-key';
+
 
   static Future<String> analyzeResume(String resumeText) async {
     try {

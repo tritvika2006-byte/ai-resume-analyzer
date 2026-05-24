@@ -35,14 +35,19 @@ Built using Flutter + OpenRouter API.
 - PDF Text Extraction
 
 ---
-
 ## Screenshots
 
 ### Home Screen
-(Add screenshot here)
+![Home](assets/screenshots/home_screen.png)
 
-### Result Screen
-(Add screenshot here)
+### Upload Resume
+![Upload](assets/screenshots/upload_resume.png)
+
+### AI Analyzing
+![Analyzing](assets/screenshots/analyzing.png)
+
+### Analysis Result
+![Result](assets/screenshots/result_screen.png)
 
 ---
 
