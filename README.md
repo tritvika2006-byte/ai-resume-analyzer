@@ -38,16 +38,16 @@ Built using Flutter + OpenRouter API.
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./assets/screenshots/home_screen.png)
+<img src="./assets/screenshots/home_screen.png" width="250"/>
 
 ### Upload Resume
-![Upload Resume](./assets/screenshots/upload_resume.png)
+<img src="./assets/screenshots/upload_resume.png" width="250"/>
 
 ### AI Analyzing
-![AI Analyzing](./assets/screenshots/analyzing.png)
+<img src="./assets/screenshots/analyzing.png" width="250"/>
 
 ### Analysis Result
-![Analysis Result](./assets/screenshots/result_screen.png)
+<img src="./assets/screenshots/result_screen.png" width="250"/>
 ---
 
 ## Installation
