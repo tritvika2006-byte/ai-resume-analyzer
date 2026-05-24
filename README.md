@@ -1,16 +1,108 @@
-# ai_resume_analyzer
+# AI Resume Analyzer
 
-A new Flutter project.
+AI-powered Flutter app that analyzes resumes using AI and provides:
 
-## Getting Started
+- ATS Score
+- Key Strengths
+- Missing Skills
+- Improvement Suggestions
+- Recommended Job Roles
 
-This project is a starting point for a Flutter application.
+Built using Flutter + OpenRouter API.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨ Modern UI  
+✨ Resume PDF Upload  
+✨ AI Resume Analysis  
+✨ ATS Score Detection  
+✨ Suggestions for Improvement  
+✨ Job Role Recommendations  
+✨ Beautiful Result Screen  
+✨ OpenRouter API Integration
+
+---
+
+## Tech Stack
+
+- Flutter
+- Dart
+- OpenRouter API
+- HTTP Package
+- File Picker
+- PDF Text Extraction
+
+---
+
+## Screenshots
+
+### Home Screen
+(Add screenshot here)
+
+### Result Screen
+(Add screenshot here)
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/tritvika2006-byte/ai-resume-analyzer.git
+```
+
+Go inside project:
+
+```bash
+cd ai-resume-analyzer
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run app:
+
+```bash
+flutter run
+```
+
+---
+
+## API Setup
+
+This project uses OpenRouter API.
+
+Create your own API key from:
+
+https://openrouter.ai/
+
+Then add it inside:
+
+```dart
+lib/services/gemini_service.dart
+```
+
+---
+
+## Future Improvements
+
+- Resume Templates
+- AI Cover Letter Generator
+- Download Analysis Report
+- Firebase Authentication
+- Cloud Storage
+- Multiple Resume Themes
+
+---
+
+## Author
+
+Ritvika Tiwari
+
+Flutter Developer | AI App Builder
